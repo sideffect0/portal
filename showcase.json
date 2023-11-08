@@ -3073,5 +3073,24 @@
     "twitter": "https://twitter.com/usher_web3",
     "youtube": "https://www.youtube.com/@usher_web3",
     "submittableId": "36108625"
+  },
+  {
+    "name": "sonic",
+    "description": "Sonic DEX, a decentralized exchange built on the Internet Computer Protocol (ICP), offers a wide range of DeFi services. Users can easily swap tokens, provide liquidity, and participate in an automated market maker (AMM). Users can engage in governance, stake for rewards, and vote on platform decisions. Sonic also plans to introduce perpetual contracts for confident trading.",
+    "website": "https://app.sonic.ooo",
+    "logo": "/img/showcase/sonic_logo.png",
+    "screenshots": [
+      "/img/showcase/sonic_screenshot.jpg"
+    ],
+    "id": "sonic",
+    "oneLiner": "The Open Defi Suite on Internet Computer Blockchain governed by Sonic DAO.",
+    "tags": [
+      "DeFi",
+      "DAO",
+      "Bitcoin"
+    ],
+    "usesInternetIdentity": true,
+    "github": "https://github.com/sonicdex/sonic-v1",
+    "twitter": "https://twitter.com/sonic_ooo",
   }
 ]
